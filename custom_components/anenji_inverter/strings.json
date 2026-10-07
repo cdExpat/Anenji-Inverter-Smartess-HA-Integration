@@ -1,0 +1,20 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Anenji Inverter Bridge Setup",
+        "description": "Configure SmartESS Wi-Fi stick redirect and MQTT parameters.",
+        "data": {
+          "stick_ip": "SmartESS Stick IP",
+          "stick_port": "SmartESS UDP Port",
+          "server_ip": "Local Bridge Server IP",
+          "server_port": "Local TCP Listen Port",
+          "mqtt_host": "MQTT Broker Host",
+          "mqtt_port": "MQTT Broker Port",
+          "mqtt_user": "MQTT Username",
+          "mqtt_password": "MQTT Password"
+        }
+      }
+    }
+  }
+}
