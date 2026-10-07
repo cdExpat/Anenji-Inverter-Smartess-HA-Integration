@@ -1,0 +1,10 @@
+{
+  "domain": "anenji_inverter",
+  "name": "Anenji Inverter Bridge",
+  "codeowners": ["@your_username"],
+  "config_flow": true,
+  "documentation": "https://github.com/your_username/anenji_inverter",
+  "requirements": ["paho-mqtt>=1.6.1"],
+  "iot_class": "local_polling",
+  "version": "1.0.0"
+}
