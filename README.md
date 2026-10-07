@@ -5,7 +5,7 @@
 >
 > [!IMPORTANT]
 > Thanks to samuelolteanu for the big work, take a look at his repository
->  https://https://github.com/samuelolteanu/Local-Cloud-Bridge-for-Anenji-Easun-MPP-Solar-Inverters/tree/main
+> https://https://github.com/samuelolteanu/Local-Cloud-Bridge-for-Anenji-Easun-MPP-Solar-Inverters/tree/main
 
 Connect Anenji inverter with Smartess Wifi stick to Home Assistant. The UDP messages are redirected to this integration and data is published to mqtt.
 
