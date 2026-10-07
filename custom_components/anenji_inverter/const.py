@@ -1,0 +1,17 @@
+DOMAIN = "anenji_inverter"
+
+CONF_STICK_IP = "stick_ip"
+CONF_STICK_PORT = "stick_port"
+CONF_SERVER_IP = "server_ip"
+CONF_SERVER_PORT = "server_port"
+CONF_MQTT_HOST = "mqtt_host"
+CONF_MQTT_PORT = "mqtt_port"
+CONF_MQTT_USER = "mqtt_user"
+CONF_MQTT_PASSWORD = "mqtt_password"
+
+DEFAULT_STICK_IP = "192.168.138.2"
+DEFAULT_STICK_PORT = 58899
+DEFAULT_SERVER_IP = "192.168.1.69"
+DEFAULT_SERVER_PORT = 18899
+DEFAULT_MQTT_HOST = "127.0.0.1"
+DEFAULT_MQTT_PORT = 1883
