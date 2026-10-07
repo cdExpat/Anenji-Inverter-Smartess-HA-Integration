@@ -25,3 +25,11 @@ Connect Anenji inverter with Smartess Wifi stick to Home Assistant. The UDP mess
 | Total Load Energy |
 | Total Battery Charge Energy |
 | Total Battery Discharge Energy |
+
+<div align="left">
+I added a screenshot from my current working mqtt:
+
+<div align="center">
+<img width="1266" height="843" alt="mqtt anj-4200W" src="https://github.com/user-attachments/assets/464c4a8f-13ca-4325-bb25-5cdd2b19cb3a" />
+
+
